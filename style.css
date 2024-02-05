@@ -371,7 +371,7 @@ a{ text-decoration:none; color:white; Padding:4px 40px;
   
    .myskills{ flex-direction: column; }
   
-    .myskill{ border: 2px solid blue; width:85vw; height:80vh; margin:25px 20px 30px 20px;justify-items: center; box-shadow: 0px 5px 5px blue;}
+    .myskill{ border: 2px solid blue; width:85vw; height:90vh; margin:25px 20px 30px 20px;justify-items: center; box-shadow: 0px 5px 5px blue;}
   
     .pic{width:73vw; height:40vh; padding:20px;}
   
